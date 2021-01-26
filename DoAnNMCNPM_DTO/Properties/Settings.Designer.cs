@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace DoAnNMCNPM.Properties
+namespace DoAnNMCNPM_DTO.Properties
 {
 
 

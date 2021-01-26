@@ -1,4 +1,4 @@
-﻿namespace DoAnNMCNPM
+﻿namespace DoAnNMCNPM_DTO
 {
     partial class Form1
     {
