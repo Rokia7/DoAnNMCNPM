@@ -15,14 +15,14 @@
       <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
         <!--
           UAC Manifest Options
-          If you want to change the Windows User Account Control level replace the 
+          If you want to change the Windows User Account Control level replace the
           requestedExecutionLevel node with one of the following.
 
         <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
         <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
         <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
 
-         If you want to utilize File and Registry Virtualization for backward 
+         If you want to utilize File and Registry Virtualization for backward
          compatibility then delete the requestedExecutionLevel node.
     -->
         <requestedExecutionLevel level="asInvoker" uiAccess="false" />
@@ -42,50 +42,50 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BUS.dll" size="5632">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BUS.dll" size="7680">
       <assemblyIdentity name="BUS" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>c/7w7XkrSg+4D/GPtG9ROdzqPCTzs83/G1O/19hMZlU=</dsig:DigestValue>
+        <dsig:DigestValue>15N0pTtM0RCVs70DRa+L5iU2emGGlkFkTxwyiXZEB1Y=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DAO.dll" size="9728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DAO.dll" size="17408">
       <assemblyIdentity name="DAO" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jIzdDkbx4P5LC3jSJJijhoxP4RUfwnhaBxszifR4hFo=</dsig:DigestValue>
+        <dsig:DigestValue>vOXFdLlUtnUsSGZUOszgZiEwHrhddrxVLgIcKSOcTqg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DTO.dll" size="4608">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DTO.dll" size="6144">
       <assemblyIdentity name="DTO" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Zg62Vx46KapbY73xFdngAQeQX7zJaHDnnQTvT1m6UrQ=</dsig:DigestValue>
+        <dsig:DigestValue>Cl3GQ5x4rfEqH+at0MRbnxTOwAj1H88es8YxrF65KEQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GUI.exe" size="10896896">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GUI.exe" size="10910208">
       <assemblyIdentity name="GUI" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YXmBc6sbQRl7VAw0/6N/W1hj4o+CNRq2hJAhyuI3kUs=</dsig:DigestValue>
+        <dsig:DigestValue>DrwHf5eBo8ieCHs6CGCwx8pFTx9Q155wGuI47LX7Tuc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
