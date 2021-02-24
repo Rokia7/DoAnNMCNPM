@@ -1,0 +1,155 @@
+D:\QLCHCF\BUS\bin\Debug\BUS.dll
+D:\QLCHCF\BUS\bin\Debug\BUS.pdb
+D:\QLCHCF\BUS\obj\Debug\BUS.dll
+D:\QLCHCF\BUS\obj\Debug\BUS.pdb
+D:\QLCHCF\BUS\bin\Debug\DAO.dll
+D:\QLCHCF\BUS\bin\Debug\DTO.dll
+D:\QLCHCF\BUS\bin\Debug\DAO.pdb
+D:\QLCHCF\BUS\bin\Debug\DTO.pdb
+D:\QLCHCF\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\do an win\QLCHCF\BUS\bin\Debug\BUS.dll
+D:\do an win\QLCHCF\BUS\bin\Debug\BUS.pdb
+D:\do an win\QLCHCF\BUS\bin\Debug\DAO.dll
+D:\do an win\QLCHCF\BUS\bin\Debug\DTO.dll
+D:\do an win\QLCHCF\BUS\bin\Debug\DAO.pdb
+D:\do an win\QLCHCF\BUS\bin\Debug\DTO.pdb
+D:\do an win\QLCHCF\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\do an win\QLCHCF\BUS\obj\Debug\BUS.dll
+D:\do an win\QLCHCF\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\BUS\obj\Debug\BUS.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\bin\Debug\BUS.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\bin\Debug\BUS.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\bin\Debug\DAO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\bin\Debug\DTO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\bin\Debug\DAO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\bin\Debug\DTO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\obj\Debug\BUS.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\BUS\obj\Debug\BUS.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+N:\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+N:\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+N:\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+N:\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+N:\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+N:\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+N:\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+N:\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+N:\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\BUS.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DAO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\bin\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\BUS\obj\Debug\BUS.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\bin\Debug\BUS.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\bin\Debug\BUS.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\bin\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\bin\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\bin\Debug\DAO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\bin\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\obj\Debug\BUS.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\BUS\obj\Debug\BUS.pdb
+D:\Đồ án tốt nghiệp\SourceCode\BUS\bin\Debug\BUS.dll
+D:\Đồ án tốt nghiệp\SourceCode\BUS\bin\Debug\BUS.pdb
+D:\Đồ án tốt nghiệp\SourceCode\BUS\bin\Debug\DAO.dll
+D:\Đồ án tốt nghiệp\SourceCode\BUS\bin\Debug\DTO.dll
+D:\Đồ án tốt nghiệp\SourceCode\BUS\bin\Debug\DAO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\BUS\bin\Debug\DTO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Đồ án tốt nghiệp\SourceCode\BUS\obj\Debug\BUS.dll
+D:\Đồ án tốt nghiệp\SourceCode\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\BUS\obj\Debug\BUS.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\bin\Debug\BUS.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\bin\Debug\BUS.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\bin\Debug\DAO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\bin\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\obj\Debug\BUS.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\BUS\obj\Debug\BUS.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\bin\Debug\BUS.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\bin\Debug\BUS.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\bin\Debug\DAO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\bin\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\obj\Debug\BUS.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\obj\Debug\BUS.pdb

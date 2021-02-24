@@ -1,0 +1,121 @@
+D:\QLCHCF\DAO\bin\Debug\DAO.dll
+D:\QLCHCF\DAO\bin\Debug\DAO.pdb
+D:\QLCHCF\DAO\obj\Debug\DAO.dll
+D:\QLCHCF\DAO\obj\Debug\DAO.pdb
+D:\QLCHCF\DAO\bin\Debug\DTO.dll
+D:\QLCHCF\DAO\bin\Debug\DTO.pdb
+D:\QLCHCF\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\do an win\QLCHCF\DAO\bin\Debug\DAO.dll
+D:\do an win\QLCHCF\DAO\bin\Debug\DAO.pdb
+D:\do an win\QLCHCF\DAO\bin\Debug\DTO.dll
+D:\do an win\QLCHCF\DAO\bin\Debug\DTO.pdb
+D:\do an win\QLCHCF\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\do an win\QLCHCF\DAO\obj\Debug\DAO.dll
+D:\do an win\QLCHCF\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DAO\obj\Debug\DAO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DAO\bin\Debug\DAO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DAO\bin\Debug\DAO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DAO\bin\Debug\DTO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DAO\bin\Debug\DTO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DAO\obj\Debug\DAO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DAO\obj\Debug\DAO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+N:\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+N:\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+N:\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+N:\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+N:\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+N:\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+N:\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+N:\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+N:\Code11-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DAO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DAO\bin\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\DAO\bin\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\DAO\bin\Debug\DAO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\DAO\bin\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\DAO\bin\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\DAO\obj\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\DAO\obj\Debug\DAO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\DAO\bin\Debug\DAO.dll
+D:\Đồ án tốt nghiệp\SourceCode\DAO\bin\Debug\DAO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\DAO\bin\Debug\DTO.dll
+D:\Đồ án tốt nghiệp\SourceCode\DAO\bin\Debug\DTO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Đồ án tốt nghiệp\SourceCode\DAO\obj\Debug\DAO.dll
+D:\Đồ án tốt nghiệp\SourceCode\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DAO\obj\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DAO\bin\Debug\DAO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DAO\bin\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DAO\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DAO\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DAO\obj\Debug\DAO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DAO\obj\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DAO\bin\Debug\DAO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DAO\bin\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DAO\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DAO\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DAO\obj\Debug\DAO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DAO\obj\Debug\DAO.pdb

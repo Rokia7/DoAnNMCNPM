@@ -1,0 +1,16 @@
+﻿<NgonNgu name="vi-VN">
+	<APPLY>Áp dụng</APPLY>
+	<ENGLISH>Tiếng Anh</ENGLISH>
+	<VIETNAMESE>Tiếng Việt</VIETNAMESE>
+	<EXIT_CONFIRMATION>XÁC NHẬN THOÁT</EXIT_CONFIRMATION>
+	<Q_EXIT_APPLICATION>Bạn có muốn thoát chương trình?</Q_EXIT_APPLICATION>
+	<NO>Không</NO>
+	<YES>Có</YES>
+	<Welcome>Xin chào: </Welcome>
+	<System>Hệ thống</System>
+	<Account>Tài Khoản</Account>
+  <Help>Trợ giúp</Help>
+  <Logout>Đăng xuất</Logout>
+  <Information>Thôn tin</Information>
+	<LANGUAGE>Ngôn ngữ</LANGUAGE>
+</NgonNgu>

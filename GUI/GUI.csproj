@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{40306BCF-7312-4796-AC0C-0F6A4C1C9F8D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Đồ án tốt nghiệp\file cài đặt\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Quyen</ProductName>
+    <PublisherName>QLCHCF</PublisherName>
+    <SuiteName>QLCHCF</SuiteName>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+    <BootstrapperComponentsUrl>D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\Resousce</BootstrapperComponentsUrl>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>2</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>96007F7BF666929903D0825106868CDE4FFC305B</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>GUI_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\30-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\netviet-mobi-icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\phan-mem-quan-ly-dung-luong-3g.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\sell.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\quanly.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\P1ELC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\dangxuat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\hethong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\taikhoan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\trogiup.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\thongtin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\backgroud.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\dangnhap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{14635C11-1EAE-4BD3-BCCA-FCA2C9066A54}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{B9A22E61-E2AA-4D01-899B-2C17BAE01FC2}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\quanlybanhang.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\thugon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\close1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\mini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\morong.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hoadon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\quanlynvl.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\sudungnvl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users_Group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cafe1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\note.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_page.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_page1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red_flag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Modify.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Shopping_Cart_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thanh-toan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question-icon-20.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20151111_5642dca98db84-210x210.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2000px-No-Symbol.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\like-flat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nhanvien.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thuc don.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chuyen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\LoiNhuan.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\coffecokhach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resousce\coffekokhach.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\from.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\While1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\toMatiTouKafeSchetsLogocyclonLogoWithBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phache.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\basket34-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconCSKH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_changepass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RiGK49MxT.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\color.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\DuLieu\NhanVien\cuong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\DuLieu\NhanVien\quyen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\black_dot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\black_s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\flower_dot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\flower_h.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\flower_m.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\flower_s.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\4K-Computer-Backgrounds-720x450.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\5wjpNuT.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\5ynt7Gb.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\7cExZD8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\11403123_1445323549108260_1439022607609660581_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\1457523074-abstract-circular-backgrounds-powerpoint.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\6619132566979459116.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\cuong.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\nhanvien\some_animals_intelligent_21.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

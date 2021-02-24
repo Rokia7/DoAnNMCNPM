@@ -1,0 +1,856 @@
+D:\QLCHCF\GUI\bin\Debug\GUI.exe
+D:\QLCHCF\GUI\bin\Debug\GUI.pdb
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmMain.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.exe
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.pdb
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\QLCHCF\GUI\bin\Debug\BUS.dll
+D:\QLCHCF\GUI\bin\Debug\DTO.dll
+D:\QLCHCF\GUI\bin\Debug\DAO.dll
+D:\QLCHCF\GUI\bin\Debug\BUS.pdb
+D:\QLCHCF\GUI\bin\Debug\DTO.pdb
+D:\QLCHCF\GUI\bin\Debug\DAO.pdb
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.Form1.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+D:\QLCHCF\GUI\obj\x86\Debug\RdlCompile.cache
+D:\QLCHCF\GUI\obj\x86\Debug\RdlCompile.compiled
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+D:\QLCHCF\GUI\bin\Debug\GUI.exe.config
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmThanhToan.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+D:\QLCHCF\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+D:\do an win\QLCHCF\GUI\bin\Debug\GUI.exe.config
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.exe
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.pdb
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.Form1.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmMain.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmThanhToan.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\RdlCompile.cache
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\RdlCompile.compiled
+D:\do an win\QLCHCF\GUI\bin\Debug\GUI.exe
+D:\do an win\QLCHCF\GUI\bin\Debug\GUI.pdb
+D:\do an win\QLCHCF\GUI\bin\Debug\BUS.dll
+D:\do an win\QLCHCF\GUI\bin\Debug\DTO.dll
+D:\do an win\QLCHCF\GUI\bin\Debug\DAO.dll
+D:\do an win\QLCHCF\GUI\bin\Debug\BUS.pdb
+D:\do an win\QLCHCF\GUI\bin\Debug\DTO.pdb
+D:\do an win\QLCHCF\GUI\bin\Debug\DAO.pdb
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+D:\do an win\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmMain.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmThanhToan.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\RdlCompile.cache
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\GUI\obj\x86\Debug\RdlCompile.compiled
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\GUI.exe.config
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\GUI.exe
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\GUI.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\BUS.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\DTO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\DAO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\BUS.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\DTO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\bin\Debug\DAO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmMain.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\RdlCompile.cache
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\RdlCompile.compiled
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.exe
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+N:\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+N:\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+N:\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+N:\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+N:\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\Code13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\Codengay13-06-2017\Code11-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongBaoThongTinTextbox.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongTinNVKhiDangNhap.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLapPhatSinh.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBangPhatSinh.resources
+N:\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTuyChinhGiaoDien.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.exe
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBangPhatSinh.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLapPhatSinh.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongTinNVKhiDangNhap.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongBaoThongTinTextbox.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmTuyChinhGiaoDien.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmGhiChuChiTietHoaDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongTinPhaChe.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeThucDonBanChay.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKeLoiNhuan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\GUI\obj\x86\Debug\GUI.frmLoading.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\GUI.exe.config
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.exe
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\GUI.exe
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\GUI.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\BUS.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\Microsoft.ReportViewer.Common.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\DAO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\BUS.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\bin\Debug\DAO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmBangPhatSinh.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmGhiChuChiTietHoaDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmLapPhatSinh.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmLoading.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKeLoiNhuan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmThongTinNVKhiDangNhap.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmThongTinPhaChe.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.ThongBaoThongTinTextbox.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmTuyChinhGiaoDien.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeThucDonBanChay.resources
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\GUI.exe.config
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.exe
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\GUI.exe
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\GUI.pdb
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\BUS.dll
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\DTO.dll
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\DAO.dll
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\BUS.pdb
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\DTO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\DAO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmBangPhatSinh.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDNhap.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmChonKH.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmGhiChuChiTietHoaDon.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmINDSTD.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmKhung.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmLapPhatSinh.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmLoading.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQLChucVu.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PhanQuyen.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_PSDNVL.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQuenMK.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmreportDSThucDon.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmTachBill.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmTaoBangChamCong.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNCC.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmthemNVL.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoLoi.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoDsHDBan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoHDBan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoNhapHang.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmBaoCaoSDNVL.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmChuyenBan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmDangNhap.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmGopBan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmNhapHang.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_HoaDon.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_KhachHang.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NguyenVatLieu.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_NhanVien.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmQL_ThucDon.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmSuDungNVL.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmThemBan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmThongBaoTT.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKe.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmThongKeLoiNhuan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmThongTinNVKhiDangNhap.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmThongTinPhaChe.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmTinhLuong.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmXacNhanThanhToan.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frm_NCC.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.ThongBaoThongTinTextbox.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeDT.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.frmTuyChinhGiaoDien.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.ThongKeThucDonBanChay.resources
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\RdlCompile.cache
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\RdlCompile.compiled
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\GUI.exe.manifest
+D:\Đồ án tốt nghiệp\SourceCode\GUI\bin\Debug\GUI.application
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.exe.manifest
+D:\Đồ án tốt nghiệp\SourceCode\GUI\obj\x86\Debug\GUI.application
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\GUI.exe.config
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\GUI.application
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\GUI.exe
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\GUI.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.exe.manifest
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.application
+C:\Users\Admin\Desktop\CNPM\SourceCode\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\GUI.exe.config
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\GUI.application
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\GUI.exe
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\GUI.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\BUS.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\DAO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\BUS.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\bin\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.frmMain.resources
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.exe.manifest
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\GUI\obj\x86\Debug\GUI.application
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\GUI.exe.config
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.exe
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\GUI.exe.manifest
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\GUI.application
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\GUI.exe
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\GUI.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\BUS.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\DAO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\BUS.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\bin\Debug\DAO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.frmMain.resources
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.Properties.Resources.resources
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.exe.manifest
+C:\Users\Rokia\Desktop\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.application

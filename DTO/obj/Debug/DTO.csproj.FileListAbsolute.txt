@@ -1,0 +1,69 @@
+D:\QLCHCF\DTO\bin\Debug\DTO.dll
+D:\QLCHCF\DTO\bin\Debug\DTO.pdb
+D:\QLCHCF\DTO\obj\Debug\DTO.dll
+D:\QLCHCF\DTO\obj\Debug\DTO.pdb
+D:\QLCHCF\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\do an win\QLCHCF\DTO\bin\Debug\DTO.dll
+D:\do an win\QLCHCF\DTO\bin\Debug\DTO.pdb
+D:\do an win\QLCHCF\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\do an win\QLCHCF\DTO\obj\Debug\DTO.dll
+D:\do an win\QLCHCF\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Downloads\QLCHCF\QLCHCF\DTO\obj\Debug\DTO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DTO\bin\Debug\DTO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DTO\bin\Debug\DTO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DTO\obj\Debug\DTO.dll
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DTO\obj\Debug\DTO.pdb
+D:\chinhgiaodien\QLCHCF(đã sửa)\QLCHCF\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DTO\bin\Debug\DTO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DTO\bin\Debug\DTO.pdb
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DTO\obj\Debug\DTO.dll
+F:\bài gốc\Nhom11_PhanCamQuyen_LeKimCuong\Code\Solution\SourceCode\DTO\obj\Debug\DTO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\bin\Debug\DTO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\bin\Debug\DTO.pdb
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\obj\Debug\DTO.dll
+N:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\obj\Debug\DTO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\bin\Debug\DTO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\bin\Debug\DTO.pdb
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\obj\Debug\DTO.dll
+F:\QLCHCFbanmoi\Code\Solution\SourceCode\DTO\obj\Debug\DTO.pdb
+N:\Code\Solution\SourceCode\DTO\bin\Debug\DTO.dll
+N:\Code\Solution\SourceCode\DTO\bin\Debug\DTO.pdb
+N:\Code\Solution\SourceCode\DTO\obj\Debug\DTO.dll
+N:\Code\Solution\SourceCode\DTO\obj\Debug\DTO.pdb
+N:\Code\Solution\SourceCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DTO\bin\Debug\DTO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DTO\bin\Debug\DTO.pdb
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DTO\obj\Debug\DTO.dll
+N:\Codengay13-06-2017\Code\Solution\SourceCode\DTO\obj\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DTO\bin\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DTO\bin\Debug\DTO.pdb
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DTO\obj\Debug\DTO.dll
+N:\Codengay24-06-2017\Codengay13-06-2017\Code\Solution\SourceCode\DTO\obj\Debug\DTO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\DTO\bin\Debug\DTO.dll
+D:\Đồ án tốt nghiệp\SourceCode\DTO\bin\Debug\DTO.pdb
+D:\Đồ án tốt nghiệp\SourceCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Đồ án tốt nghiệp\SourceCode\DTO\obj\Debug\DTO.dll
+D:\Đồ án tốt nghiệp\SourceCode\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DTO\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DTO\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DTO\obj\Debug\DTO.dll
+C:\Users\Rokia\Desktop\SourceCode\SourceCode\DTO\obj\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DTO\bin\Debug\DTO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DTO\obj\Debug\DTO.dll
+C:\Users\Rokia\Desktop\DoAnNMCNPM\DTO\obj\Debug\DTO.pdb

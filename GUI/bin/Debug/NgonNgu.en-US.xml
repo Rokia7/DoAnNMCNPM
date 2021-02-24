@@ -1,0 +1,18 @@
+<NgonNgu name="en-US">
+	<APPLY>Apply</APPLY>
+	<ENGLISH>English</ENGLISH>
+	<VIETNAMESE>Vietnamese</VIETNAMESE>
+	<EXIT_CONFIRMATION>EXIT CONFIRMATION</EXIT_CONFIRMATION>
+	<Q_EXIT_APPLICATION>Do you want to exit application?</Q_EXIT_APPLICATION>
+	<NO>No</NO>
+	<YES>Yes</YES>
+	<Welcome>Welcome: </Welcome>
+	<System>System</System>
+  <Logout>Log out</Logout>
+  <changepassword >change Password</changepassword>
+    <Account>Account</Account>
+  <Help>Help</Help>
+  <Information>Information</Information>
+	<LANGUAGE>Language</LANGUAGE>
+  
+</NgonNgu>
