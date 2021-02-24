@@ -11,7 +11,6 @@ namespace DAO
 {
 	public class clsThaoTacDuLieu
 	{
-		//test
 		// public static string strChuoiKetNoi = @"Data Source=.\SQLEXPRESS;Initial Catalog=QLCHCF;Integrated Security=True";
 		private static string strChuoiKetNoi = ConfigurationManager.ConnectionStrings["Conn"].ConnectionString;
 		public static SqlConnection TaoKetNoi()
@@ -87,17 +86,6 @@ namespace DAO
 			DongKetNoi(con);
 			return dt;
 		}
-
-		//public static DataTable Laydulieu(string sql)
-		//{
-		//    AutoCompleteStringCollection auto2 = new AutoCompleteStringCollection();
-		//    SqlConnection con = TaoVaMoKetNoi();
-		//    SqlCommand cmd = TaoDoiTuongCommand(con, sql);
-		//    SqlDataAdapter da = new SqlDataAdapter(sql, con);
-		//    da.Fill(dt);
-		//    DongKetNoi(con);
-		//    return dt;
-		//}
 
 		public static string DemDong(string TenBang, string TenCot)
 		{

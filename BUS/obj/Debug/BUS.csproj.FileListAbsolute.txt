@@ -153,3 +153,14 @@ C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\bin\Debug\DTO.pdb
 C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\obj\Debug\BUS.dll
 C:\Users\Rokia\Desktop\DoAnNMCNPM\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.pdb
