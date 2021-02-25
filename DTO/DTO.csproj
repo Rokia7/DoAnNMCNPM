@@ -43,7 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsBan_DTO.cs" />
+    <Compile Include="clsLoaiMon_DTO.cs" />
     <Compile Include="clsNhanVien_DTO.cs" />
+    <Compile Include="clsThucDon_DTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

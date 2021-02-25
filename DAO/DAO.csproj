@@ -43,8 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsBan_DAO.cs" />
+    <Compile Include="clsLoaiMon_DAO.cs" />
     <Compile Include="clsNhanVien_DAO.cs" />
     <Compile Include="clsThaoTacDuLieu.cs" />
+    <Compile Include="clsThucDon_DAO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

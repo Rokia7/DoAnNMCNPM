@@ -43,7 +43,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsBan_BUS.cs" />
+    <Compile Include="clsLoaiMon_BUS.cs" />
     <Compile Include="clsNhanVien_BUS.cs" />
+    <Compile Include="clsThucDon_BUS.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
