@@ -185,10 +185,7 @@ namespace GUI
 
                 }
                 mnubarMain.Items[dong - 1].Image = GUI.Properties.Resources.morong;
-                //this.picHinhAnh.Size = new System.Drawing.Size(32, 32);
                 lblHoTen.Size = new System.Drawing.Size(0, 0);
-                //btnDangXuat.Size = new System.Drawing.Size(0, 0);
-                //btnDangXuat.Text = "";
                 lblHoTen.Text = "";
             }
             else
@@ -197,11 +194,8 @@ namespace GUI
                 mnubarMain.Items[1].Text = b;
                 mnubarMain.Items[2].Text = c;
                 mnubarMain.Items[dong - 1].Image = GUI.Properties.Resources.thugon;
-                //this.picHinhAnh.Size = ax.Size;
                 lblHoTen.Size = ten.Size;
                 lblHoTen.Text = ten.Text;
-                //btnDangXuat.Size = btn.Size;
-                //btnDangXuat.Text = btn.Text;
             }
             mnubarMain.Refresh();
         }
@@ -220,21 +214,16 @@ namespace GUI
             }
         }
 
-        private void tsThongtin_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("Phần mềm quản lý Cafe YoChe " + "\n" + "Product by: Phan Cẩm Quyền - Võ Nhật Anh" + "\n" + "Class: CĐTH14A - CKC" + "\n" + "GVHD: Lê Hoàng Vân", "Thông tin", MessageBoxButtons.OK, MessageBoxIcon.Information);
-        }
-
         private void mnuQLTD_Click(object sender, EventArgs e)
         {
             CloseAllForm();
-            //frmQL_ThucDon m_frmQL_ThucDon = frmQL_ThucDon.Instance;
-            //m_frmQL_ThucDon.MdiParent = this;
-            //m_frmQL_ThucDon.Dock = DockStyle.Fill;
-            //m_frmQL_ThucDon.Show();
-            //m_frmQL_ThucDon.BringToFront();
-            //mnuQuanLy.Text = "QUẢN LÝ (THỰC ĐƠN)";
-        }
+			frmQL_ThucDon m_frmQL_ThucDon = frmQL_ThucDon.Instance;
+			m_frmQL_ThucDon.MdiParent = this;
+			m_frmQL_ThucDon.Dock = DockStyle.Fill;
+			m_frmQL_ThucDon.Show();
+			m_frmQL_ThucDon.BringToFront();
+			mnuQuanLy.Text = "QUẢN LÝ (THỰC ĐƠN)";
+		}
 
         private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
         {
@@ -253,9 +242,9 @@ namespace GUI
 
         private void đổiMậtKhẩuToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            //frmDoiMK doimk = new frmDoiMK();
-            //doimk.Show();
-        }
+			frmDoiMK doimk = new frmDoiMK();
+			doimk.Show();
+		}
 
         private void qUẢNLÝKHÁCHHÀNGToolStripMenuItem_Click(object sender, EventArgs e)
         {
@@ -304,7 +293,7 @@ namespace GUI
                 else mnubarMain.Items[i].BackColor = Color.Transparent;
 
             }
-            if (mnubarMain.Items[4].Selected == false)
+            if (mnubarMain.Items[2].Selected == false)
             {
                 mnuQuanLy.Text = "QUẢN LÝ";
             }
@@ -312,15 +301,15 @@ namespace GUI
 
         private void lblHoTen_MouseHover(object sender, EventArgs e)
         {
-            //frmThongTinNVKhiDangNhap dn = new frmThongTinNVKhiDangNhap(HinhAnh,tennv, MaNV);
-            //dn.Show();
-        }
+			frmThongTinNVKhiDangNhap dn = new frmThongTinNVKhiDangNhap(HinhAnh, tennv, MaNV);
+			dn.Show();
+		}
 
         private void lblHoTen_MouseLeave(object sender, EventArgs e)
         {
-            //frmThongTinNVKhiDangNhap dn = new frmThongTinNVKhiDangNhap();
-            //dn.Close();
-        }
+			frmThongTinNVKhiDangNhap dn = new frmThongTinNVKhiDangNhap();
+			dn.Close();
+		}
 
         private void lOẠIMÓNToolStripMenuItem_Click(object sender, EventArgs e)
         {

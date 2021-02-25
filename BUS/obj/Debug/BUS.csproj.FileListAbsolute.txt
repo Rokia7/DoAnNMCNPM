@@ -164,3 +164,14 @@ C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csproj.CoreC
 C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csproj.CopyComplete
 C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.dll
 C:\Users\Admin\Desktop\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.pdb
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\BUS.dll
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\BUS.pdb
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DAO.dll
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DTO.dll
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DAO.pdb
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\bin\Debug\DTO.pdb
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.dll
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\BUS\obj\Debug\BUS.pdb
