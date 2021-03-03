@@ -43,6 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clsBan_DTO.cs" />
+    <Compile Include="clsCTBan_DTO.cs" />
+    <Compile Include="clsCTHDBan_DTO.cs" />
+    <Compile Include="clsHoaDonBan_DTO.cs" />
+    <Compile Include="clsKhachHang_DTO.cs" />
     <Compile Include="clsLoaiMon_DTO.cs" />
     <Compile Include="clsNhanVien_DTO.cs" />
     <Compile Include="clsThucDon_DTO.cs" />
