@@ -903,3 +903,5 @@ D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.application
 D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.csproj.CopyComplete
 D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.frmDoiMK.resources
 D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.frmThongTinNVKhiDangNhap.resources
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.frmBanHang.resources
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\GUI\obj\x86\Debug\GUI.frmLoaiMon.resources

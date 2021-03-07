@@ -71,6 +71,12 @@ namespace BUS
             return dao.LayTatCaDsBan(sql);
         }
 
+        public SqlConnection Khoitao()
+        {
+            clsLoaiMon_DAO dao = new clsLoaiMon_DAO();
+            return dao.Khoitao();
+        }
+
         public DataTable LayDSBan(SqlConnection con, Action<object, SqlNotificationEventArgs> de_OnChange)
         {
             clsBan_DAO dao = new clsBan_DAO();

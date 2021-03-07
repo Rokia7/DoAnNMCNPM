@@ -314,13 +314,13 @@ namespace GUI
         private void lOẠIMÓNToolStripMenuItem_Click(object sender, EventArgs e)
         {
             CloseAllForm();
-            //frmLoaiMon m_frmLoaiMon = frmLoaiMon.Instance;
-            //m_frmLoaiMon.MdiParent = this;
-            //m_frmLoaiMon.Dock = DockStyle.Fill;
-            //m_frmLoaiMon.Show();
-            //m_frmLoaiMon.BringToFront();
-            //mnuQuanLy.Text = "QUẢN LÝ (LOẠI MÓN)";
-        }
+			frmLoaiMon m_frmLoaiMon = frmLoaiMon.Instance;
+			m_frmLoaiMon.MdiParent = this;
+			m_frmLoaiMon.Dock = DockStyle.Fill;
+			m_frmLoaiMon.Show();
+			m_frmLoaiMon.BringToFront();
+			mnuQuanLy.Text = "QUẢN LÝ (LOẠI MÓN)";
+		}
 
         private void toolStripButton1_Click(object sender, EventArgs e)
         {

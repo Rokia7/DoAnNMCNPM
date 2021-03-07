@@ -78,3 +78,4 @@ D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\DTO\bin\Debug\DTO.pdb
 D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
 D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\DTO\obj\Debug\DTO.dll
 D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\DTO\obj\Debug\DTO.pdb
+D:\Quyen\CNPM\SourceCode\DoAnNMCNPM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
