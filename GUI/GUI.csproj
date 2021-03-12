@@ -128,6 +128,12 @@
     <Compile Include="frmMain.Designer.cs">
       <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmQL_NhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQL_NhanVien.Designer.cs">
+      <DependentUpon>frmQL_NhanVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmQL_ThucDon.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -162,6 +168,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMain.resx">
       <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQL_NhanVien.resx">
+      <DependentUpon>frmQL_NhanVien.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmQL_ThucDon.resx">
       <DependentUpon>frmQL_ThucDon.cs</DependentUpon>
@@ -271,7 +280,9 @@
   <ItemGroup>
     <None Include="Resources\quanlynvl.gif" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\synchronize.png" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="bin\Debug\Resousce\sudungnvl.png" />
   </ItemGroup>

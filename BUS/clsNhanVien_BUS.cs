@@ -43,11 +43,17 @@ namespace BUS
             clsNhanVien_DAO dao = new clsNhanVien_DAO();
             return dao.LayThongTinNhanVien(strMaNV);
         }
-        public List<clsNhanVien_DTO> LayDsTatCaNV()
+        public List<clsNhanVien_DTO> LayDsTatCaNVCon()
         {
             clsNhanVien_DAO dao = new clsNhanVien_DAO();
-            return dao.LayDsTatCaNV();
+            return dao.LayDsTatCaNVCon();
         }
+        public List<clsNhanVien_DTO> LayDsTatCaNVNghi()
+        {
+            clsNhanVien_DAO dao = new clsNhanVien_DAO();
+            return dao.LayDsTatCaNVNghi();
+        }
+
 
         public bool XoaNV(string manv)
         {
@@ -60,16 +66,16 @@ namespace BUS
             clsNhanVien_DAO dao = new clsNhanVien_DAO();
             return dao.SuaNV(nv);
         }
-        public void ThemNV(clsNhanVien_DTO nv)
+        public bool ThemNV(clsNhanVien_DTO nv)
         {
             clsNhanVien_DAO dao = new clsNhanVien_DAO();
-            dao.ThemNV(nv);
+            return dao.ThemNV(nv);
         }
 
-        public List<clsNhanVien_DTO> LayDsNhanVien(string strTen, string strMa, string strGioiTinh, string strChucVu)
+        public List<clsNhanVien_DTO> LayDsNhanVien(string strTen, string strMa, string strGioiTinh, int intTrangThai)
         {
             clsNhanVien_DAO dao = new clsNhanVien_DAO();
-            return dao.LayDsNhanVien(strTen, strMa, strGioiTinh, strChucVu);
+            return dao.LayDsNhanVien(strTen, strMa, strGioiTinh, intTrangThai);
         }
 
         public List<clsNhanVien_DTO> LayDsNhanVien(string sql)

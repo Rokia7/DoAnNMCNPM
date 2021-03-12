@@ -120,12 +120,12 @@ namespace GUI
         private void mnuQLNV_Click(object sender, EventArgs e)
         {
             CloseAllForm();
-            //frmQL_NhanVien m_frmQL_NhanVien = frmQL_NhanVien.Instance;
-            //m_frmQL_NhanVien.MdiParent = this;
-            //m_frmQL_NhanVien.Dock = DockStyle.Fill;
-            //m_frmQL_NhanVien.Show();
-            //m_frmQL_NhanVien.BringToFront();
-            //mnuQuanLy.Text = "QUẢN LÝ (NHÂN VIÊN)";
+            frmQL_NhanVien m_frmQL_NhanVien = frmQL_NhanVien.Instance;
+            m_frmQL_NhanVien.MdiParent = this;
+            m_frmQL_NhanVien.Dock = DockStyle.Fill;
+            m_frmQL_NhanVien.Show();
+            m_frmQL_NhanVien.BringToFront();
+            mnuQuanLy.Text = "QUẢN LÝ (NHÂN VIÊN)";
         }
 
         private void toolStripMain_ItemClicked_1(object sender, ToolStripItemClickedEventArgs e)
