@@ -74,7 +74,7 @@ namespace GUI
             
             // Yêu cầu lấy dữ liệu từ CSDL thông qua BUS
             clsNhanVien_BUS bus = new clsNhanVien_BUS();
-            List<clsNhanVien_DTO> lsNV = bus.LayDsTatCaNV();
+            List<clsNhanVien_DTO> lsNV = bus.LayDsTatCaNVCon();
             // Đổ dữ liệu cho cboNhanVien
             cboNhanVien.DataSource = lsNV;
             cboNhanVien.DisplayMember = "HOTENNV";
