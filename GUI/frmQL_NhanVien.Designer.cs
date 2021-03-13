@@ -694,6 +694,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmQL_NhanVien";
             this.Text = "frmQL_NhanVien";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmQL_NhanVien_FormClosed);
             this.Load += new System.EventHandler(this.frmQL_NhanVien_Load);
             this.contextMenuStrip1.ResumeLayout(false);
             this.grpTimKiem.ResumeLayout(false);
