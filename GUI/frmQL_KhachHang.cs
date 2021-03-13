@@ -14,22 +14,22 @@ using System.Security.Cryptography;
 
 namespace GUI
 {
-    public partial class frmQL_NhanVien : Form
+    public partial class frmQL_KhachHang : Form
     {
-        public frmQL_NhanVien()
+        public frmQL_KhachHang()
         {
             InitializeComponent();
         }
 
-        private static frmQL_NhanVien _Instance = null;
+        private static frmQL_KhachHang _Instance = null;
 
-        public static frmQL_NhanVien Instance
+        public static frmQL_KhachHang Instance
         {
             get
             {
                 if (_Instance == null)
                 {
-                    _Instance = new frmQL_NhanVien();
+                    _Instance = new frmQL_KhachHang();
                 }
                 return _Instance;
             }
@@ -41,7 +41,7 @@ namespace GUI
         private bool iAdd = false;
         private bool iUpdate = false;
 
-        private void frmQL_NhanVien_Load(object sender, EventArgs e)
+        private void frmQL_KhachHang_Load(object sender, EventArgs e)
         {
             LoadDuLieu();
             LoadDuLieuDGVNV();
@@ -56,12 +56,14 @@ namespace GUI
             tam.Columns.Add("TENGT");
             tam.Rows.Add(1, "Nam");
             tam.Rows.Add(0, "Nữ");
+            tam.Rows.Add("", "Chọn giới tính");
 
             DataTable tam2 = new DataTable();
             tam2.Columns.Add("MAGT");
             tam2.Columns.Add("TENGT");
             tam2.Rows.Add(1, "Nam");
             tam2.Rows.Add(0, "Nữ");
+            tam2.Rows.Add("", "Chọn giới tính");
 
             DataTable dataCV = new DataTable();
             dataCV.Columns.Add("MACV");
@@ -72,12 +74,12 @@ namespace GUI
             cboGioiTinh.DataSource = tam;
             cboGioiTinh.ValueMember = "MAGT";
             cboGioiTinh.DisplayMember = "TENGT";
-            cboGioiTinh.SelectedIndex = 0;
+            cboGioiTinh.SelectedIndex = 2;
 
             cboGioiTinhTK.DataSource = tam2;
             cboGioiTinhTK.ValueMember = "MAGT";
             cboGioiTinhTK.DisplayMember = "TENGT";
-            cboGioiTinhTK.SelectedIndex = 0;
+            cboGioiTinhTK.SelectedIndex = 2;
 
             cboChucVu.DataSource = dataCV;
             cboChucVu.ValueMember = "MACV";
@@ -653,7 +655,7 @@ namespace GUI
             }
         }
 
-        private void frmQL_NhanVien_FormClosed(object sender, FormClosedEventArgs e)
+        private void frmQL_KhachHang_FormClosed(object sender, FormClosedEventArgs e)
         {
             _Instance = null;
         }

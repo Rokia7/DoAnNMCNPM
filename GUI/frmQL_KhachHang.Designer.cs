@@ -1,6 +1,6 @@
 ﻿namespace GUI
 {
-    partial class frmQL_NhanVien
+    partial class frmQL_KhachHang
     {
         /// <summary>
         /// Required designer variable.
@@ -292,9 +292,8 @@
             // 
             this.dtbNgaySinh.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.dtbNgaySinh.CustomFormat = "dd/MM/yyyy";
             this.dtbNgaySinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dtbNgaySinh.Format = System.Windows.Forms.DateTimePickerFormat.Custom;
+            this.dtbNgaySinh.Format = System.Windows.Forms.DateTimePickerFormat.Short;
             this.dtbNgaySinh.Location = new System.Drawing.Point(157, 114);
             this.dtbNgaySinh.Name = "dtbNgaySinh";
             this.dtbNgaySinh.Size = new System.Drawing.Size(352, 21);
@@ -682,7 +681,7 @@
             this.btnXoa.UseVisualStyleBackColor = true;
             this.btnXoa.Click += new System.EventHandler(this.btnXoa_Click);
             // 
-            // frmQL_NhanVien
+            // frmQL_KhachHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -693,10 +692,10 @@
             this.Controls.Add(this.grpDSTD);
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "frmQL_NhanVien";
-            this.Text = "frmQL_NhanVien";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmQL_NhanVien_FormClosed);
-            this.Load += new System.EventHandler(this.frmQL_NhanVien_Load);
+            this.Name = "frmQL_KhachHang";
+            this.Text = "frmQL_KhachHang";
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmQL_KhachHang_FormClosed);
+            this.Load += new System.EventHandler(this.frmQL_KhachHang_Load);
             this.contextMenuStrip1.ResumeLayout(false);
             this.grpTimKiem.ResumeLayout(false);
             this.grpTimKiem.PerformLayout();
