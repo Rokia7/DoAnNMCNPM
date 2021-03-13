@@ -310,7 +310,7 @@ namespace GUI
                         clsNhanVien_DTO nv = new clsNhanVien_DTO();
                         clsNhanVien_BUS busNV = new clsNhanVien_BUS();
                         nv = busNV.LayThongTinNhanVien(DongDuocChon.Cells["MANV"].Value.ToString());
-                        //// Hiển thị các thông tin lên groupbox Thông tin truyện
+                        // Hiển thị các thông tin lên groupbox Thông tin truyện
                         matKhau = nv.MATKHAU.ToString();
                         lblMaNV.Text = DongDuocChon.Cells["MANV"].Value.ToString();
                         tenNV = DongDuocChon.Cells["HOTENNV"].Value.ToString();
@@ -320,7 +320,17 @@ namespace GUI
                         cboChucVu.SelectedValue = nv.MaCV.ToString();
                         txtDiaChi.Text = nv.DIACHI.ToString();
                         txtSDT.Text = nv.SDT.ToString();
-                        pboAnhNV.Image = Image.FromFile(@"" + nv.HINHANH.ToString());
+                        bool isExistFile = File.Exists(@"" + nv.HINHANH.ToString());
+                        if (isExistFile)
+                        {
+                            byte[] byHANV = File.ReadAllBytes(nv.HINHANH);
+                            MemoryStream mos = new MemoryStream(byHANV);
+                            pboAnhNV.Image = Image.FromStream(mos);
+                        }
+                        else
+                        {
+                            pboAnhNV.Image = GUI.Properties.Resources.manager;
+                        }
                         if (nv.TRANGTHAI == 1)
                             rdoCon.Checked = true;
                         else
@@ -372,13 +382,12 @@ namespace GUI
         private void pboAnhNV_Click(object sender, EventArgs e)
         {
             OpenFileDialog open = new OpenFileDialog();
-            open.Filter = "Image Files(*.jpg; *.jpeg; *.gif; *.bmp)|*.jpg; *.jpeg; *.gif; *.bmp";
+            open.Filter = "Image Files(*.jpg; *.jpeg; *.gif; *.bmp; *.png)|*.jpg; *.jpeg; *.gif; *.bmp; *.png";
             if (open.ShowDialog() == DialogResult.OK)
             {
-                // display image in picture box  
-                pboAnhNV.Image = new Bitmap(open.FileName);
-                // image file path  
-                pboAnhNV.Text = open.FileName;
+                byte[] byHANV = File.ReadAllBytes(open.FileName);
+                MemoryStream mos = new MemoryStream(byHANV);
+                pboAnhNV.Image = Image.FromStream(mos);
             }
         }
 
@@ -460,7 +469,6 @@ namespace GUI
         {
             try
             {
-                System.IO.MemoryStream ms = new System.IO.MemoryStream();
                 clsNhanVien_DTO nv = new clsNhanVien_DTO();
                 nv.HOTENNV = txtTenNV.Text.ToString();
                 nv.GIOITINH = cboGioiTinh.SelectedValue.ToString() == "1" ? true : false;
@@ -469,11 +477,6 @@ namespace GUI
                 nv.SDT = txtSDT.Text.ToString();
                 nv.DIACHI = txtDiaChi.Text.ToString();
                 nv.TRANGTHAI = rdoCon.Checked ? 1 : 0;
-                if (!File.Exists(@"DuLieu\NhanVien\" + lblMaNV.Text + ".jpg"))
-                {
-                    pboAnhNV.Image.Save(@"DuLieu\NhanVien\" + lblMaNV.Text + ".jpg");
-                }
-                nv.HINHANH = @"DuLieu\NhanVien\" + lblMaNV.Text + ".jpg";
                 nv.MATKHAU = matKhau;
 
 
@@ -490,8 +493,11 @@ namespace GUI
                         nv.MANV = lblMaNV.Text != "" ? lblMaNV.Text : PhatSinhMaNV().ToString();
                         nv.MATKHAU = GetMD5("123");
 
-                        bool kq = busNV.ThemNV(nv);
+                        if (nv.MANV != "-1")
+                            nv.HINHANH = createOrUpdateImage(nv.MANV);
 
+                        bool kq = busNV.ThemNV(nv);
+                        pboAnhNV.Image = Image.FromFile(nv.HINHANH);
                         disabledForm();
                         if (kq)
                             TimKiem();
@@ -502,8 +508,10 @@ namespace GUI
                     else if (iUpdate) // Sửa
                     {
                         nv.MANV = lblMaNV.Text;
+                        if (nv.MANV != "")
+                            nv.HINHANH = createOrUpdateImage(nv.MANV);
                         bool kq = busNV.SuaNV(nv);
-
+                        pboAnhNV.Image = Image.FromFile(nv.HINHANH);
                         disabledForm();
                         if (kq)
                             TimKiem();
@@ -516,6 +524,25 @@ namespace GUI
                 }
             }
             catch { }
+        }
+
+        private string createOrUpdateImage(string maNV)
+        {
+            string directoryPath = @"DuLieu\NhanVien";
+            bool isExistDirectory = Directory.Exists(directoryPath);
+            if (!isExistDirectory)
+            {
+                Directory.CreateDirectory(directoryPath);
+            }
+            string pathImage = @"DuLieu\NhanVien\" + maNV + ".jpg";
+            bool isExistFile = File.Exists(pathImage);
+            if (isExistFile)
+            {
+                File.Delete(pathImage);
+            }
+            pboAnhNV.Image.Save(@"DuLieu\NhanVien\" + maNV + ".jpg");
+
+            return @"DuLieu\NhanVien\" + maNV + ".jpg";
         }
 
         private void ScrollTo(string ma)
@@ -626,6 +653,11 @@ namespace GUI
             {
                 e.Handled = true;
             }
+        }
+
+        private void frmQL_NhanVien_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            _Instance = null;
         }
     }
 }
